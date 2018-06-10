@@ -1,0 +1,9 @@
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\bin\Debug\netstandard2.0\SrpTask.deps.json
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\bin\Debug\netstandard2.0\SrpTask.dll
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\bin\Debug\netstandard2.0\SrpTask.pdb
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\obj\Debug\netstandard2.0\SrpTask.csprojResolveAssemblyReference.cache
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\obj\Debug\netstandard2.0\SrpTask.csproj.CoreCompileInputs.cache
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\obj\Debug\netstandard2.0\SrpTask.AssemblyInfoInputs.cache
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\obj\Debug\netstandard2.0\SrpTask.AssemblyInfo.cs
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\obj\Debug\netstandard2.0\SrpTask.dll
+C:\Users\gbalachandra\Downloads\ccl-exercise\src\SrpTask\obj\Debug\netstandard2.0\SrpTask.pdb
